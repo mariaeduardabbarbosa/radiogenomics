@@ -1,6 +1,6 @@
 # Radiogenomica
 
-Estrutura organizada para o projeto de radiogenômica - integração de TC + RNA + TME.
+Estrutura organizada para o projeto de radiogenômica - integração de TC (Tomografia Computadorizada) + RNA (expressão gênica) + TME (Tumor Microenvironment).
 
 ## Estrutura de Diretórios
 

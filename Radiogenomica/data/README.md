@@ -2,7 +2,7 @@
 
 Este diretório contém os dados brutos do projeto radiogenômico:
 
-- **TC (Tomografia Computadorizada)**: Imagens de tomografia computadorizada
+- **TC (Tomografia Computadorizada)**: Imagens médicas em formato DICOM
 - **RNA**: Dados de expressão gênica e sequenciamento de RNA
 - **Meta**: Metadados e informações clínicas dos pacientes
 
